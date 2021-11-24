@@ -1,4 +1,4 @@
-mport Alert from './alert.js';
+import Alert from './alert.js';
 
 export default class Modal {
   constructor() {
